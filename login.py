@@ -5,7 +5,7 @@ import json
 import requests
 
 # Firebase API key (replace with environment variable or secure method)
-FIREBASE_API_KEY = "AIzaSyApr-etDzcGcsVcmaw7R7rPxx3A09as7uw"
+FIREBASE_API_KEY = "Your Key"
 
 # Firebase REST API URLs
 SIGN_UP_URL = "https://identitytoolkit.googleapis.com/v1/accounts:signUp"
