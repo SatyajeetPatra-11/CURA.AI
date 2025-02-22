@@ -42,6 +42,13 @@
 - **SerperDev API**: Enables web search for additional resources.
 - **LlamaParse**: Parses and processes medical documents.
 
+## Screenshots
+
+![Screenshot 2024-07-20 073528](https://github.com/user-attachments/assets/862c890f-ba30-4905-901f-31d56f24e00a)
+![Screenshot 2024-07-20 100217](https://github.com/user-attachments/assets/a8bf7e5b-9f46-495f-9b19-250bc28b760a)
+![Screenshot 2024-07-20 100352](https://github.com/user-attachments/assets/91e88911-150b-4edb-962e-6c510059a760)
+![Screenshot 2024-07-20 100402](https://github.com/user-attachments/assets/71ffa0ae-0a11-425c-89db-dc5f4b83265b)
+
 ## Getting Started
 
 ### **1. Clone the Repository**
